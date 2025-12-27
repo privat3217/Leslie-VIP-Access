@@ -1415,15 +1415,15 @@
                     <div class="user-info">
                         <div class="info-item">
                             <span class="info-label">Full Name:</span>
-                            <span class="info-value" id="profileName">Alexandra Morgan</span>
+                            <span class="info-value" id="profileName"></span>
                         </div>
                         <div class="info-item">
                             <span class="info-label">Email:</span>
-                            <span class="info-value" id="profileEmail">alexandra@example.com</span>
+                            <span class="info-value" id="profileEmail"></span>
                         </div>
                         <div class="info-item">
                             <span class="info-label">Member Since:</span>
-                            <span class="info-value">January 15, 2023</span>
+                            <span class="info-value">December, 2025</span>
                         </div>
                         <div class="info-item">
                             <span class="info-label">VIP ID:</span>
@@ -1431,17 +1431,17 @@
                         </div>
                         <div class="info-item">
                             <span class="info-label">Location:</span>
-                            <span class="info-value">Los Angeles, CA</span>
+                            <span class="info-value">Canada</span>
                         </div>
                     </div>
                     
                     <div class="membership-status">
                         <div class="status-badge">ELITE MEMBER</div>
-                        <p>Your membership renews on: <strong>January 15, 2024</strong></p>
+                        <p>Your membership renews on: <strong>December, 2026</strong></p>
                         <div class="progress-bar">
                             <div class="progress-fill"></div>
                         </div>
-                        <p>75% of membership year remaining</p>
+                        <p>90% of membership year remaining</p>
                     </div>
                 </div>
                 
